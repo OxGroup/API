@@ -6,7 +6,7 @@
  * Time: 16:25
  */
 
-namespace ox\api;
+namespace Ox\Api;
 
 class OxApi
 {
