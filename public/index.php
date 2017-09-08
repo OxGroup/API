@@ -9,7 +9,7 @@ use Ox\Api\OxApi;
 
 $loader = require __DIR__ . '/../vendor/autoload.php';
 
-$api=new OxApi("http://api.domain.biz/","root@domain.biz","grtg345g5ujh67iu67iu");
+$api=new OxApi("https://oxapi.ru/","root@domain.biz","grtg345g5ujh67iu67iu");
 
 
 echo "<pre>";
